@@ -1,0 +1,15 @@
+#jumbo{
+    background-image: url("thumb-1920-993073.jpg");
+}
+
+.piccolo{
+    width: 25%;
+}
+
+.grande{
+    width: 50%
+}
+
+.bg-verdeAcqua{
+    background-color: rgba(31, 156, 125, 0.678);
+}
